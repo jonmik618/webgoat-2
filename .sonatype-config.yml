@@ -1,0 +1,4 @@
+iq-for-vscode:
+  applicationID: webgoat-2__jonmik618
+  includeDev: false
+  type: ['maven']
